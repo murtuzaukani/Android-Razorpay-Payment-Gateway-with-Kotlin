@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Razorpay Payment Gateway with Kotlin</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="enter_the_amount">Enter the Amount</string>
+    <string name="pay_now">Pay Now</string>
+
+
+</resources>
